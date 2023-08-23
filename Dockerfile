@@ -14,6 +14,6 @@ COPY controller ./controller
 
 RUN go build -o demopersonas
 
-EXPOSE 8000
+EXPOSE 8001
 
 CMD ["./demopersonas"]

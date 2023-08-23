@@ -1,4 +1,4 @@
-module github.com/GabrielHernanQuinteros/demoArticulos
+module github.com/GabrielHernanQuinteros/demoPersonas
 
 go 1.21.0
 

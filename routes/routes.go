@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	myctrllr "github.com/GabrielHernanQuinteros/demoArticulos/controller"
-	myvars "github.com/GabrielHernanQuinteros/demoArticulos/vars"
 	mytools "github.com/GabrielHernanQuinteros/demoCommon"
+	myctrllr "github.com/GabrielHernanQuinteros/demoPersonas/controller" //Modificar
+	myvars "github.com/GabrielHernanQuinteros/demoPersonas/vars"         //Modificar
 	"github.com/gorilla/mux"
 )
 

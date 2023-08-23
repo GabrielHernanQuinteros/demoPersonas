@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	myroute "github.com/GabrielHernanQuinteros/demoArticulos/routes"
-	myvars "github.com/GabrielHernanQuinteros/demoArticulos/vars"
 	mytools "github.com/GabrielHernanQuinteros/demoCommon"
+	myroute "github.com/GabrielHernanQuinteros/demoPersonas/routes" //Modificar
+	myvars "github.com/GabrielHernanQuinteros/demoPersonas/vars"    //Modificar
 	"github.com/gorilla/mux"
 )
 
